@@ -1,0 +1,3 @@
+# ObjectTemplateSample
+
+object template sample
